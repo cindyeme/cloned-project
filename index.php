@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link rel="icon" href="assets/img/favicon.png">
+
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
 
     <link rel="stylesheet" href="assets/fonts/css/all.min.css">
@@ -17,7 +19,7 @@
     <link rel="stylesheet" href="assets/css/media-query.css">
 
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Project</title>
+    <title>Udacity.cynthia.com</title>
 </head>
 <body>
 
