@@ -4,19 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="/src/assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
 
-    <link rel="stylesheet" href="/src/assets/fonts/css/all.min.css">
-    <link rel="stylesheet" href="/src/assets/fonts/flaticon/font/flaticon.css">
-    <link rel="stylesheet" href="/src/assets/fonts/icomoon/style.css">
-    <link rel="stylesheet" href="/src/assets/fonts/css/v4-shims.css">
+    <link rel="stylesheet" href="assets/fonts/css/all.min.css">
+    <link rel="stylesheet" href="assets/fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="assets/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="assets/fonts/css/v4-shims.css">
     
-    <link rel="stylesheet" href="/src/assets/owlcarousel/assets/owl.carousel.min.css">
-    <link rel="stylesheet" href="/src/assets/owlcarousel/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/owlcarousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/owlcarousel/assets/owl.theme.default.min.css">
 
-    <link rel="stylesheet" href="/src/assets/css/media-query.css">
+    <link rel="stylesheet" href="assets/css/media-query.css">
 
-    <link rel="stylesheet" href="/src/assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <title>Project</title>
 </head>
 <body>
@@ -24,8 +24,8 @@
     <section id="nav-bar" class="sticky-top">
         <div class="container">
             <nav class="navbar navbar-expand-lg">
-                <a href="index.html" class="navbar-brand pt-4">
-                    <img src="/src/assets/img/udacity-logo-resize.PNG" alt="logo" class="img-fluid">
+                <a href="index.php" class="navbar-brand pt-4">
+                    <img src="assets/img/udacity-logo-resize.PNG" alt="logo" class="img-fluid">
                 </a>
                 <button class="navbar-toggler text-dark" type="button" data-toggle="collapse"
                     data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
@@ -237,7 +237,7 @@
                                 <div class="card-content">
                                 <div class="card">
                                     <div class="card-img-top image">
-                                        <img src="/src/assets/img/justtechit.jpg" alt="" class="img-fluid">
+                                        <img src="assets/img/justtechit.jpg" alt="" class="img-fluid">
                                         <div class="card-img-overlay">
                                             <p class="text"><span class="text-uppercase">New</span> </p>
                                         </div>
@@ -262,7 +262,7 @@
                                 <div class="card-content">
                                 <div class="card padding">
                                     <div class="card-img-top">
-                                        <img src="/src/assets/img/darkroom.jpg" alt="" class="img-fluid">
+                                        <img src="assets/img/darkroom.jpg" alt="" class="img-fluid">
                                         <div class="card-img-overlay">
                                             <p class="text"><span class="popular text-uppercase">Popular</span></p>
                                         </div>
@@ -287,7 +287,7 @@
                                 <div class="card-content">
                                 <div class="card">
                                     <div class="card-img-top">
-                                        <img src="/src/assets/img/machine1.jpg" alt="" class="img-fluid">
+                                        <img src="assets/img/machine1.jpg" alt="" class="img-fluid">
                                         <div class="card-img-overlay">
                                             <p class="text"><span class="text-uppercase">New</span></p>
                                         </div>
@@ -312,7 +312,7 @@
                                 <div class="card-content">
                                 <div class="card">
                                     <div class="card-img-top">
-                                        <img src="/src/assets/img/machine3.jpg" alt="" class="img-fluid">
+                                        <img src="assets/img/machine3.jpg" alt="" class="img-fluid">
                                         <div class="card-img-overlay">
                                             <p class="text"><span class="topRated text-uppercase">Top Rated</span></p>
                                         </div>
@@ -337,7 +337,7 @@
                                 <div class="card-content">
                                 <div class="card">
                                     <div class="card-img-top">
-                                        <img src="/src/assets/img/machine2.jpg" alt="" class="img-fluid">
+                                        <img src="assets/img/machine2.jpg" alt="" class="img-fluid">
                                         <div class="card-img-overlay">
                                             <p class="text"><span class="text-uppercase">New</span></p>
                                         </div>
@@ -831,13 +831,13 @@
 
 </footer>
 
-    <script src="/src/assets/js/jquery-3.3.1.min.js"></script>
-    <script src="/src/assets/js/popper.min.js"></script>
-    <script src="/src/assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="/src/assets/fonts/js/all.min.js"></script>
-    <script src="/src/assets/fonts/js/v4-shims.min.js"></script>
-    <script src="/src/assets/owlcarousel/owl.carousel.min.js"></script>
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/fonts/js/all.min.js"></script>
+    <script src="assets/fonts/js/v4-shims.min.js"></script>
+    <script src="assets/owlcarousel/owl.carousel.min.js"></script>
 
-    <script src="/src/assets/js/main.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 </html>

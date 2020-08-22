@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Notice</title>
-    <link rel="stylesheet" href="/src/assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/src/assets/fonts/css/fontawesome.min.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/css/fontawesome.min.css">
     <style>
         *{
             box-sizing: border-box;
@@ -39,11 +39,11 @@
         </div>
     </div>
 
-    <script src="/src/assets/js/jquery-3.3.1.min.js"></script>
-    <script src="/src/assets/js/popper.min.js"></script>
-    <script src="/src/assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="/src/assets/fonts/js/all.min.js"></script>
-    <script src="/src/assets/fonts/js/v4-shims.min.js"></script>
-    <script src="/src/assets/owlcarousel/owl.carousel.min.js"></script>
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/fonts/js/all.min.js"></script>
+    <script src="assets/fonts/js/v4-shims.min.js"></script>
+    <script src="assets/owlcarousel/owl.carousel.min.js"></script>
 </body>
 </html>
