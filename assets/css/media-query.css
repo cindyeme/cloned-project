@@ -1,3 +1,4 @@
+
 @media (max-width: 768px){
      /* #nav-bar .navbar .navbar-brand{
         
@@ -92,7 +93,7 @@
     .list-inline-item .active{
         font-size: .85rem !important;
         font-weight: bolder !important;
-        transform: translate(-39px, 30px);
+        transform: translate(-30px, 30px);
         color: #11161a !important;
         letter-spacing: 1px;
     }

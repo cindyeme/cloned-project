@@ -237,6 +237,7 @@ tr .colorless{
     padding-right: .5rem;
     font-weight: 400;
 }
+
 #section-2 .list-inline-item .nav-link{
     color: #525c65;
     font-size: .93rem;
@@ -336,6 +337,9 @@ tr .colorless{
 .card-body{
     padding: 0 !important;
     margin: 0 !important;
+}
+#section-2 .card-body .card-text, .card-header .text{
+    padding-left: .5rem;
 }
 .card-body .card-text > span {
     padding: 0 .3rem;
