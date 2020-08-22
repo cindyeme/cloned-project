@@ -132,7 +132,7 @@
         height: 100%;
     }
     #section-3 .card {
-        height: 38vh;
+        height: 40vh;
         margin-top: 2.5rem !important;
         width: 55vw;
     }
@@ -146,6 +146,7 @@
     #section-3 .card .card-text .text{
         font-size: .75rem;
         font-weight: 500;
+        padding: .8rem 1rem;
     }
     #section-3 .card-deck {
         margin: auto ;
@@ -249,7 +250,7 @@
     #section-4 .card {
         height: 50vh;
         margin-top: 2.5rem;
-        width: 63vw;
+        width: 65vw;
     }
     .strengthBtn {
         margin-top: .5rem;
