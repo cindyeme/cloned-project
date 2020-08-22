@@ -237,9 +237,10 @@ tr .colorless{
     padding-right: .5rem;
     font-weight: 400;
 }
-.list-inline-item .nav-link{
+#section-2 .list-inline-item .nav-link{
     color: #525c65;
-    font-size: 1rem;
+    font-size: .93rem;
+    letter-spacing: 1px;
 }
 .list-inline-item .nav-link:hover{
     color: #11161a;
@@ -261,7 +262,7 @@ tr .colorless{
     content: "";
     position: absolute;
     top: 80%;
-    left: 65px;
+    left: 60px;
     width: 0px;
     height: 0px;
     border-top: 15px solid #02b3e4;
@@ -382,7 +383,7 @@ tr .colorless{
     font-size: 1.2rem !important;
     font-weight: normal;
 }
-#section-3 .col-md-3{
+#section-3 .col-lg-3{
     padding: 0 !important;
     border: none !important;
     background: none !important;
@@ -397,6 +398,7 @@ tr .colorless{
     box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
     height: 100%;
     width: auto;
+    margin-top: .5rem;
     border-radius: 6px;
 }
 
@@ -435,7 +437,7 @@ tr .colorless{
     padding-top: .7rem;
 }
 .third_sec_card_content .card-text p{
-    font-size: .85rem;
+    font-size: .8rem;
     padding-top: .6rem;
 }
 .icon_header .icon .fa-briefcase {
@@ -551,9 +553,10 @@ tr .colorless{
 }
 #section-4 .card-img img{
     border-radius: 50%;
-    height: 64px;
-    width: 64px;
+    height: 60px;
+    width: 60px;
     z-index: 1;
+    object-fit: cover;
     position: relative;
     transform: translateY(-40px);
 }
@@ -599,10 +602,11 @@ footer .list-items ul{
     justify-content: space-between;
     align-items: flex-end;
 }
-.copyright .icons{
-    color: #01719b !important; 
-    padding-top: .9rem;
+.copyright .icons {
+    color: #525c65 !important; 
+    padding-top: 1rem;
 }
 .copyright .icons a{
-    padding:  1.3rem !important;
+    padding:  1rem;
+    color: #525c65 !important;
 }

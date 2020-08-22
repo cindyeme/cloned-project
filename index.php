@@ -412,9 +412,9 @@
                 </div>
                 <div class="container">
                 <div class="row mx-auto">
-                    <div class="content-wrap">
+                    <div class="content-wrap mx-auto">
                         <div class="card-deck">
-                            <div class="col-md-3 col-sm-6 first_card">
+                            <div class="col-lg-3 col-md-6 col-sm-12 first_card">
                                 <div class="card third_sec_card getReal">
                                     <div class="third_sec_card_content  getReal_content text-center">
                                         <div class="icon_header">
@@ -428,7 +428,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-3 col-sm-6 second_card">
+                            <div class="col-lg-3 col-md-6 col-sm-12 second_card">
                                 <div class="card third_sec_card projectBased">
                                     <div class="third_sec_card_content  projectBased_content text-center">
                                         <div class="icon_header">
@@ -442,7 +442,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-3 col-sm-6 third_card">
+                            <div class="col-lg-3 col-md-6 col-sm-12 third_card">
                                 <div class="card third_sec_card learnSched">
                                     <div class=" third_sec_card_content  learnSched_content text-center">
                                         <div class="icon_header">
@@ -456,7 +456,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-3 col-sm-6 fourth_card">
+                            <div class="col-lg-3 col-md-6 col-sm-12 fourth_card">
                                 <div class="card third_sec_card helpNeed">
                                     <div class="third_sec_card_content  helpNeed_content text-center">
                                         <div class="icon_header">
@@ -504,7 +504,7 @@
                     <h3 class="title">Strength in numbers</h3>
                 </div>
                 <div class="col-md-4 col-sm-12">
-                    <div class="colContent">
+                    <div class="colContent ">
                         <div class="text_img text-center">
                             <!-- <img src="" alt="udacity graduations and counting" class="img-fluid"> -->
                             <span class="fa fa-graduation-cap icon"></span>
@@ -516,7 +516,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 col-sm-12">
+                <div class="col-md-4 col-sm-12 ">
                     <div class="colContent">
                         <div class="text_img text-center">
                             <!-- <img src="" alt="Industry experts partnering to build our content" class="img-fluid"> -->
@@ -545,8 +545,8 @@
 
             <div class="container">
                 <div class="row">
-                    <div class="card-deck">
-                        <div class="col-md-4 col-sm-12 jesseFirst">
+                    <div class="card-deck mx-auto">
+                        <div class="col-md-4 col-sm-12 jesseFirst ">
                             <div class="card jesse text-center ">
                                 <div class="card-img text-center">
                                     <img src="./assets/img/jesse.jpeg" alt="jesse" class="img-fluid">
@@ -616,7 +616,16 @@
     </section>
 
 
-    <footer class="footer" style="background: rgba(230, 248, 241, 0.467);">
+    <footer class="footer" style="background: rgba(238, 245, 242, 0.467);">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="img-box">
+                        <img src="assets/img/udacity_png_logo.png" alt="udacity_logo" class="img-fluid" style="width: 40px; height: auto;">
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col footer_content pr-5">
@@ -795,7 +804,7 @@
                         <div class="bottom_content flex-row flex-fill">
                         <div class=" copyright">
                             <span class="udacity_right small">&copy; 2011-2020 Udacity, Inc. <span class="smDisplayNone">Legal & Privacy Site Map</span></span>
-                            <span class="icons">
+                            <span class="icons" id="social_icons">
                                 <a href="#" class="socil-link">
                                     <i class="fa fa-facebook social " title="Udacity Facebook"></i>
                                 </a>
@@ -806,15 +815,34 @@
                                     <i class="fa fa-medium social " title="Udacity Medium"></i>
                                 </a>
                                 <a href="#" class="socil-link">
-                                    <i class="fa fa-linkedin social " title="Udacity Linkedin"></i>
-                                </a> <br>
+                                    <i class="fa fa-linkedin-square social " title="Udacity Linkedin"></i>
+                                </a>
                                 <a href="#" class="socil-link">
                                     <i class="fa fa-instagram social " title="Udacity Instagram"></i>
                                 </a>
                             </span>
                         </div>
+
                         <div class="disclaimer col-md-12 ">
-                            <div class="very_small text-center">
+                            <div class="very_small text-center clearfix">
+
+                                <span class="icons d-block" id="socials_icon">
+                                <a href="#" class="socil-link">
+                                    <i class="fa fa-facebook social " title="Udacity Facebook"></i>
+                                </a>
+                                <a href="#" class="socil-link">
+                                    <i class="fa fa-twitter social " title="Udacity Twitter"></i>
+                                </a>
+                                <a href="#" class="socil-link">
+                                    <i class="fa fa-medium social " title="Udacity Medium"></i>
+                                </a>
+                                <a href="#" class="socil-link">
+                                    <i class="fa fa-linkedin-square social " title="Udacity Linkedin"></i>
+                                </a>
+                                <a href="#" class="socil-link">
+                                    <i class="fa fa-instagram social " title="Udacity Instagram"></i>
+                                </a>
+                            </span>
                                 <span class="small">"Nanodegree" is a registered trademark of udacity &copy; 2011-2020
                                     Udacity, Inc</span>
                                 <p class="small">Udacity is not an accredited university and we don't confer traditional
