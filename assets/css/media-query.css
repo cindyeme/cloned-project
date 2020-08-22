@@ -232,7 +232,7 @@
         color: #11161a;
     }
     #section-4 .card-body .card-subtitle{
-        font-size: .85rem !important;
+        font-size: .9rem !important;
     }
 
     #section-4 .card-deck .col-md-4 {
@@ -248,7 +248,7 @@
     }
 
     #section-4 .card {
-        height: 50vh;
+        height: 49vh;
         margin-top: 2.5rem;
         width: 65vw;
     }
